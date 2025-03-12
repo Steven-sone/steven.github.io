@@ -4,7 +4,7 @@ I am a results-driven Operations and Analytics Professional with over 10 years o
 
 ## 💡 Skills & Technologies
 
-Programming & Data Analysis: Python, SQL, Tableau
+Programming & Data Analysis: Excel, SQL, Looker Studio, Python
 
 Predictive Modeling & Machine Learning
 
